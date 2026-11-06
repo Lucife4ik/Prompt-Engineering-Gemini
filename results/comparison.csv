@@ -1,0 +1,4 @@
+﻿strategy,answer_minutes,correct,word_count,error
+zero_shot,5.0,True,73,
+few_shot,5.0,True,25,
+step_by_step,5.0,True,72,
